@@ -10,7 +10,7 @@ Full-stack developer who ships production software solo — from idea to live, p
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,tailwind,prisma,supabase,pytorch,tensorflow" />
+<a href="https://github.com/KrishTrivedi025"><img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,tailwind,prisma,supabase,pytorch,tensorflow" /></a>
 
 <br/><br/>
 
@@ -25,7 +25,7 @@ Full-stack developer who ships production software solo — from idea to live, p
 
 AI-powered bird species identification — custom-trained deep learning model deployed via Hugging Face Spaces
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a> <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
 
 <sub>**[View Repository](https://github.com/KrishTrivedi025/MKfinder)**</sub>
 
@@ -39,7 +39,7 @@ AI-powered bird species identification — custom-trained deep learning model de
 
 CLI trading bot for Binance USDT-M Futures — self-signed REST client, live order validation, structured logging
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Binance-F0B90B?style=flat-square&logo=binance&logoColor=black"/> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> <a href="https://www.binance.com/"><img src="https://img.shields.io/badge/Binance-F0B90B?style=flat-square&logo=binance&logoColor=black"/></a> <a href="https://docs.pytest.org/"><img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/></a>
 
 <sub>**[View Repository](https://github.com/KrishTrivedi025/trading-bot)**</sub>
 
@@ -53,7 +53,7 @@ CLI trading bot for Binance USDT-M Futures — self-signed REST client, live ord
 
 Full-stack business ERP in production — sales, inventory, GST invoicing, deployed on Vercel + Supabase
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a> <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a> <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/></a>
 
 <sub>**[View Repository](https://github.com/KrishTrivedi025/riddhi-siddhi-jewellery)**</sub>
 
@@ -68,7 +68,7 @@ Full-stack business ERP in production — sales, inventory, GST invoicing, deplo
 
 ### GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishTrivedi025&hide_border=true&background=00000000&ring=1F3864&fire=2E75B6&currStreakLabel=1F3864" height="165"/>
+<a href="https://github.com/KrishTrivedi025?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishTrivedi025&hide_border=true&background=161A21&ring=2E75B6&fire=E0A83E&currStreakLabel=E7E3DA&sideNums=E7E3DA&sideLabels=8A93A2&dates=8A93A2&stroke=262D38" height="165"/></a>
 
 <br/>
 
