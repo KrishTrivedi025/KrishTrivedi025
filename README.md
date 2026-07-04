@@ -16,33 +16,33 @@ Full-stack developer who ships production software solo — from idea to live, p
 
 ### Featured Projects
 
-#### [MKFinder](https://github.com/KrishTrivedi025/MKfinder)
+### MKFinder
 
 AI-powered bird species identification — custom-trained deep learning model deployed via Hugging Face Spaces
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a> <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
 
-**[View Repository →](https://github.com/KrishTrivedi025/MKfinder)**
+**[View Repository](https://github.com/KrishTrivedi025/MKfinder)**
 
 <br/>
 
-#### [Trading Bot](https://github.com/KrishTrivedi025/trading-bot)
+### Trading Bot
 
 CLI trading bot for Binance USDT-M Futures — self-signed REST client, live order validation, structured logging
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> <a href="https://www.binance.com/"><img src="https://img.shields.io/badge/Binance-F0B90B?style=flat-square&logo=binance&logoColor=black"/></a> <a href="https://docs.pytest.org/"><img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/></a>
 
-**[View Repository →](https://github.com/KrishTrivedi025/trading-bot)**
+**[View Repository](https://github.com/KrishTrivedi025/trading-bot)**
 
 <br/>
 
-#### [Riddhi Siddhi ERP](https://github.com/KrishTrivedi025/riddhi-siddhi-jewellery)
+### Riddhi Siddhi ERP
 
 Full-stack business ERP — sales, purchases, inventory, and GST invoicing for a jewellery business, with an Android app shell via Capacitor
 
 <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a> <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a> <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/></a>
 
-**[View Repository →](https://github.com/KrishTrivedi025/riddhi-siddhi-jewellery)**
+**[View Repository](https://github.com/KrishTrivedi025/riddhi-siddhi-jewellery)**
 
 <br/>
 
