@@ -51,11 +51,28 @@ CLI trading bot for Binance USDT-M Futures — self-signed REST client, live ord
 
 ### [Riddhi Siddhi ERP](https://github.com/KrishTrivedi025/riddhi-siddhi-jewellery)
 
-Full-stack business ERP in production — sales, inventory, GST invoicing, deployed on Vercel + Supabase
+Full-stack business ERP — sales, purchases, inventory, and GST invoicing for a jewellery business, with an Android app shell via Capacitor
 
 <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a> <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a> <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/></a>
 
 <sub>**[View Repository](https://github.com/KrishTrivedi025/riddhi-siddhi-jewellery)**</sub>
+
+<br/>
+
+</td>
+
+</tr>
+<tr>
+
+<td align="center" width="33%" valign="top">
+
+### [Task Tracker](https://github.com/KrishTrivedi025/task-tracker)
+
+Full-stack MERN task manager — JWT auth with per-user private task lists, server-side filtering/search/sort, toast notifications
+
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a> <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a> <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>
+
+<sub>**[View Repository](https://github.com/KrishTrivedi025/task-tracker)**</sub>
 
 <br/>
 
