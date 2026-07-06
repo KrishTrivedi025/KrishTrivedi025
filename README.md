@@ -48,7 +48,7 @@ Full-stack business ERP — sales, purchases, inventory, and GST invoicing for a
 
 ### GitHub Stats
 
-<a href="https://github.com/KrishTrivedi025?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishTrivedi025&hide_border=true&background=161A21&ring=2E75B6&fire=E0A83E&currStreakLabel=E7E3DA&currStreakNum=E7E3DA&sideNums=E7E3DA&sideLabels=8A93A2&dates=8A93A2&stroke=262D38" height="165"/></a>
+<a href="https://github.com/KrishTrivedi025?tab=repositories"><img src="https://streak-stats.demolab.com/?user=KrishTrivedi025&hide_border=true&background=161A21&ring=2E75B6&fire=E0A83E&currStreakLabel=E7E3DA&currStreakNum=E7E3DA&sideNums=E7E3DA&sideLabels=8A93A2&dates=8A93A2&stroke=262D38" height="165"/></a>
 
 <br/>
 
