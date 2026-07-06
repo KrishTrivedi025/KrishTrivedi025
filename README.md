@@ -60,7 +60,7 @@ NPTEL (IIT Madras) · Jul–Aug 2025
 
 JPMorgan Chase & Co. · via Forage · June 2026
 
-<img src="https://img.shields.io/badge/JPMorgan%20Chase%20%26%20Co.-1F3864?style=flat-square"/> <img src="https://img.shields.io/badge/Forage-2E75B6?style=flat-square"/>
+<a href="https://drive.google.com/file/d/1UVgJmDxwLn3asdNtKQYM5bNbRRflKtGw/view"><img src="https://img.shields.io/badge/JPMorgan%20Chase%20%26%20Co.-1F3864?style=flat-square"/></a> <a href="https://drive.google.com/file/d/1UVgJmDxwLn3asdNtKQYM5bNbRRflKtGw/view"><img src="https://img.shields.io/badge/Forage-2E75B6?style=flat-square"/></a>
 
 <br/>
 
@@ -68,7 +68,7 @@ JPMorgan Chase & Co. · via Forage · June 2026
 
 Deloitte · via Forage · June 2026
 
-<img src="https://img.shields.io/badge/Deloitte-1F3864?style=flat-square"/> <img src="https://img.shields.io/badge/Forage-2E75B6?style=flat-square"/>
+<a href="https://drive.google.com/file/d/1_vXX-hC5k5R0z3jfNdjmSONBLUkS_Vgh/view"><img src="https://img.shields.io/badge/Deloitte-1F3864?style=flat-square"/></a> <a href="https://drive.google.com/file/d/1_vXX-hC5k5R0z3jfNdjmSONBLUkS_Vgh/view"><img src="https://img.shields.io/badge/Forage-2E75B6?style=flat-square"/></a>
 
 <br/><br/>
 
