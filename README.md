@@ -46,9 +46,41 @@ Full-stack business ERP — sales, purchases, inventory, and GST invoicing for a
 
 <br/>
 
+### Certifications
+
+**Python for Data Science**
+
+NPTEL (IIT Madras) · Jul–Aug 2025
+
+<img src="https://img.shields.io/badge/NPTEL-1F3864?style=flat-square"/> <img src="https://img.shields.io/badge/IIT%20Madras-2E75B6?style=flat-square"/>
+
+<br/>
+
+**Software Engineering Job Simulation**
+
+JPMorgan Chase & Co. · via Forage · June 2026
+
+<img src="https://img.shields.io/badge/JPMorgan%20Chase%20%26%20Co.-1F3864?style=flat-square"/> <img src="https://img.shields.io/badge/Forage-2E75B6?style=flat-square"/>
+
+<br/>
+
+**Data Analytics Job Simulation**
+
+Deloitte · via Forage · June 2026
+
+<img src="https://img.shields.io/badge/Deloitte-1F3864?style=flat-square"/> <img src="https://img.shields.io/badge/Forage-2E75B6?style=flat-square"/>
+
+<br/><br/>
+
 ### GitHub Stats
 
 <a href="https://github.com/KrishTrivedi025?tab=repositories"><img src="https://streak-stats.demolab.com/?user=KrishTrivedi025&hide_border=true&background=161A21&ring=2E75B6&fire=E0A83E&currStreakLabel=E7E3DA&currStreakNum=E7E3DA&sideNums=E7E3DA&sideLabels=8A93A2&dates=8A93A2&stroke=262D38" height="165"/></a>
+
+<br/>
+
+### Contribution Snake
+
+<img src="https://raw.githubusercontent.com/KrishTrivedi025/KrishTrivedi025/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <br/>
 
