@@ -88,5 +88,6 @@ Deloitte · via Forage · June 2026
 
 [![Email](https://img.shields.io/badge/Email-1F3864?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krrishtrivedi17@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishtrivedi)
+[![Resume](https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=Resume&logoColor=Red)](https://drive.google.com/file/d/1ONHN4hsI031CIAT1QJN6KyuwAygbe6Bz/view?usp=drivesdk)
 
 </div>
